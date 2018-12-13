@@ -3,7 +3,7 @@
 #
 
 # Pull base image
-FROM ubuntu
+FROM ubuntu:cosmic
 
 # Install
 RUN \
